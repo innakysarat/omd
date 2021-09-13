@@ -1,2 +1,2 @@
-# omd
-oh my duck!
+# oh my duck
+AAA, homework 1
